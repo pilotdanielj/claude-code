@@ -1,0 +1,7 @@
+{
+  "enabledMcpjsonServers": ["flight-search"],
+  "env": {
+    "MAX_MCP_OUTPUT_TOKENS": "150000",
+    "MCP_TOOL_TIMEOUT": "120000"
+  }
+}

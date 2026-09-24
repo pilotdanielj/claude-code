@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flight-search": {
+      "command": "uvx",
+      "args": ["--from", "flights[mcp]", "fli-mcp"]
+    }
+  }
+}

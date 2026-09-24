@@ -1,11 +1,11 @@
 {
   "version": 1,
   "skills": {
-    "google-flights": {
-      "source": "skillhq/flight-search",
+    "flights": {
+      "source": "van4oza/gflights-mcp-skill",
       "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "2b5535dab04428bb02921c393258b206db3a1810db24163ab9c10ebce87f7dae"
+      "skillPath": ".claude/skills/flights/SKILL.md",
+      "computedHash": "55503ee262619db475749c27f6a22a7f42f9c8adc6d8852cfc47d0fde24f82a2"
     }
   }
 }
